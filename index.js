@@ -1,7 +1,7 @@
 const passcodes = {
 	try1 : 'DAEG',
 	try2 : '8310',
-	try3 : 'GDFE'
+	try3 : 'GBFE'
 };
 
 let tries = {};
